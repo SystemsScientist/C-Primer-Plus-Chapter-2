@@ -1,4 +1,4 @@
-#C Primer Plus - Chapter 2 Exercises and Solutions
+# C Primer Plus - Chapter 2 Exercises and Solutions
 
 This repository contains the Listings, Exercises, and solutions
 for Chapter 2 of C Primer Plus, 5th edition, by Stephen Prata.
